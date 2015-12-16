@@ -1,0 +1,6 @@
+C:\temp\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe.config
+C:\temp\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+C:\temp\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.exe
+C:\temp\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.pdb
+C:\temp\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.exe
+C:\temp\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb

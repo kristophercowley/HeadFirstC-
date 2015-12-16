@@ -1,0 +1,9 @@
+C:\temp\formDebugger\formDebugger\bin\Debug\formDebugger.exe.config
+C:\temp\formDebugger\formDebugger\obj\Debug\formDebugger.csprojResolveAssemblyReference.cache
+C:\temp\formDebugger\formDebugger\obj\Debug\formDebugger.Form1.resources
+C:\temp\formDebugger\formDebugger\obj\Debug\formDebugger.Properties.Resources.resources
+C:\temp\formDebugger\formDebugger\obj\Debug\formDebugger.csproj.GenerateResource.Cache
+C:\temp\formDebugger\formDebugger\bin\Debug\formDebugger.exe
+C:\temp\formDebugger\formDebugger\bin\Debug\formDebugger.pdb
+C:\temp\formDebugger\formDebugger\obj\Debug\formDebugger.exe
+C:\temp\formDebugger\formDebugger\obj\Debug\formDebugger.pdb

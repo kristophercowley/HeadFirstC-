@@ -1,0 +1,8 @@
+C:\temp\Cformbox\Cformbox\bin\Debug\Cformbox.exe.config
+C:\temp\Cformbox\Cformbox\bin\Debug\Cformbox.exe
+C:\temp\Cformbox\Cformbox\bin\Debug\Cformbox.pdb
+C:\temp\Cformbox\Cformbox\obj\Debug\Cformbox.Form1.resources
+C:\temp\Cformbox\Cformbox\obj\Debug\Cformbox.Properties.Resources.resources
+C:\temp\Cformbox\Cformbox\obj\Debug\Cformbox.csproj.GenerateResource.Cache
+C:\temp\Cformbox\Cformbox\obj\Debug\Cformbox.exe
+C:\temp\Cformbox\Cformbox\obj\Debug\Cformbox.pdb

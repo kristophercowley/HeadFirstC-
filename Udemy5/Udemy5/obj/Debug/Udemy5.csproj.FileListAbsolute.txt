@@ -1,0 +1,6 @@
+C:\temp\Udemy5\Udemy5\bin\Debug\Udemy5.exe.config
+C:\temp\Udemy5\Udemy5\bin\Debug\Udemy5.exe
+C:\temp\Udemy5\Udemy5\bin\Debug\Udemy5.pdb
+C:\temp\Udemy5\Udemy5\obj\Debug\Udemy5.csprojResolveAssemblyReference.cache
+C:\temp\Udemy5\Udemy5\obj\Debug\Udemy5.exe
+C:\temp\Udemy5\Udemy5\obj\Debug\Udemy5.pdb

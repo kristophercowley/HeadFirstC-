@@ -1,0 +1,5 @@
+C:\temp\UdemyEx4\UdemyEx4\bin\Debug\UdemyEx4.exe.config
+C:\temp\UdemyEx4\UdemyEx4\bin\Debug\UdemyEx4.exe
+C:\temp\UdemyEx4\UdemyEx4\bin\Debug\UdemyEx4.pdb
+C:\temp\UdemyEx4\UdemyEx4\obj\Debug\UdemyEx4.exe
+C:\temp\UdemyEx4\UdemyEx4\obj\Debug\UdemyEx4.pdb

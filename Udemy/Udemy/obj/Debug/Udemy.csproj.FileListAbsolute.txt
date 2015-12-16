@@ -1,0 +1,6 @@
+C:\temp\Udemy\Udemy\bin\Debug\Udemy.exe.config
+C:\temp\Udemy\Udemy\bin\Debug\Udemy.exe
+C:\temp\Udemy\Udemy\bin\Debug\Udemy.pdb
+C:\temp\Udemy\Udemy\obj\Debug\Udemy.exe
+C:\temp\Udemy\Udemy\obj\Debug\Udemy.pdb
+C:\temp\Udemy\Udemy\obj\Debug\Udemy.csprojResolveAssemblyReference.cache

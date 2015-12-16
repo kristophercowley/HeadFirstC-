@@ -1,0 +1,9 @@
+C:\temp\mbox2\mbox2\bin\Debug\mbox2.exe.config
+C:\temp\mbox2\mbox2\bin\Debug\mbox2.exe
+C:\temp\mbox2\mbox2\bin\Debug\mbox2.pdb
+C:\temp\mbox2\mbox2\obj\Debug\mbox2.csprojResolveAssemblyReference.cache
+C:\temp\mbox2\mbox2\obj\Debug\mbox2.Properties.Resources.resources
+C:\temp\mbox2\mbox2\obj\Debug\mbox2.csproj.GenerateResource.Cache
+C:\temp\mbox2\mbox2\obj\Debug\mbox2.exe
+C:\temp\mbox2\mbox2\obj\Debug\mbox2.pdb
+C:\temp\mbox2\mbox2\obj\Debug\mbox2.Form1.resources

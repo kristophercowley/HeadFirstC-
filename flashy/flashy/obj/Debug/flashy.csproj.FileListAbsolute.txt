@@ -1,0 +1,9 @@
+C:\temp\flashy\flashy\bin\Debug\flashy.exe.config
+C:\temp\flashy\flashy\obj\Debug\flashy.csprojResolveAssemblyReference.cache
+C:\temp\flashy\flashy\obj\Debug\flashy.Form1.resources
+C:\temp\flashy\flashy\obj\Debug\flashy.Properties.Resources.resources
+C:\temp\flashy\flashy\obj\Debug\flashy.csproj.GenerateResource.Cache
+C:\temp\flashy\flashy\bin\Debug\flashy.exe
+C:\temp\flashy\flashy\bin\Debug\flashy.pdb
+C:\temp\flashy\flashy\obj\Debug\flashy.exe
+C:\temp\flashy\flashy\obj\Debug\flashy.pdb

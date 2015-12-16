@@ -1,0 +1,9 @@
+C:\temp\headfirstformsex\headfirstformsex\bin\Debug\headfirstformsex.exe.config
+C:\temp\headfirstformsex\headfirstformsex\bin\Debug\headfirstformsex.exe
+C:\temp\headfirstformsex\headfirstformsex\bin\Debug\headfirstformsex.pdb
+C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.csprojResolveAssemblyReference.cache
+C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.Form1.resources
+C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.Properties.Resources.resources
+C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.csproj.GenerateResource.Cache
+C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.exe
+C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.pdb

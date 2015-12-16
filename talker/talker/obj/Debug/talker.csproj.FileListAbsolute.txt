@@ -1,0 +1,9 @@
+C:\temp\talker\talker\bin\Debug\talker.exe.config
+C:\temp\talker\talker\bin\Debug\talker.exe
+C:\temp\talker\talker\bin\Debug\talker.pdb
+C:\temp\talker\talker\obj\Debug\talker.csprojResolveAssemblyReference.cache
+C:\temp\talker\talker\obj\Debug\talker.Form1.resources
+C:\temp\talker\talker\obj\Debug\talker.Properties.Resources.resources
+C:\temp\talker\talker\obj\Debug\talker.csproj.GenerateResource.Cache
+C:\temp\talker\talker\obj\Debug\talker.exe
+C:\temp\talker\talker\obj\Debug\talker.pdb

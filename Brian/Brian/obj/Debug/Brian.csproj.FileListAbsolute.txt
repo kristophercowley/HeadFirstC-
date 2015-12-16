@@ -1,0 +1,6 @@
+C:\temp\Brian\Brian\bin\Debug\Brian.exe.config
+C:\temp\Brian\Brian\bin\Debug\Brian.exe
+C:\temp\Brian\Brian\bin\Debug\Brian.pdb
+C:\temp\Brian\Brian\obj\Debug\Brian.csprojResolveAssemblyReference.cache
+C:\temp\Brian\Brian\obj\Debug\Brian.exe
+C:\temp\Brian\Brian\obj\Debug\Brian.pdb

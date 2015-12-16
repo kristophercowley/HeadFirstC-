@@ -1,0 +1,6 @@
+C:\temp\UdemyExercises2.1\UdemyExercises2.1\bin\Debug\UdemyExercises2.1.exe.config
+C:\temp\UdemyExercises2.1\UdemyExercises2.1\bin\Debug\UdemyExercises2.1.exe
+C:\temp\UdemyExercises2.1\UdemyExercises2.1\bin\Debug\UdemyExercises2.1.pdb
+C:\temp\UdemyExercises2.1\UdemyExercises2.1\obj\Debug\UdemyExercises2.1.csprojResolveAssemblyReference.cache
+C:\temp\UdemyExercises2.1\UdemyExercises2.1\obj\Debug\UdemyExercises2.1.exe
+C:\temp\UdemyExercises2.1\UdemyExercises2.1\obj\Debug\UdemyExercises2.1.pdb

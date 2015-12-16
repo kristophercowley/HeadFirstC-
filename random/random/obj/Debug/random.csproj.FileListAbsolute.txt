@@ -1,0 +1,6 @@
+C:\temp\random\random\bin\Debug\random.exe.config
+C:\temp\random\random\bin\Debug\random.exe
+C:\temp\random\random\bin\Debug\random.pdb
+C:\temp\random\random\obj\Debug\random.csprojResolveAssemblyReference.cache
+C:\temp\random\random\obj\Debug\random.exe
+C:\temp\random\random\obj\Debug\random.pdb
