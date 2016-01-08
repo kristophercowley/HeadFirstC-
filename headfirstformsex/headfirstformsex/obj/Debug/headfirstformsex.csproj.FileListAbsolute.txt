@@ -7,3 +7,6 @@ C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.Properties.
 C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.csproj.GenerateResource.Cache
 C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.exe
 C:\temp\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.pdb
+C:\temp\HFC\headfirstformsex\headfirstformsex\bin\Debug\headfirstformsex.exe.config
+C:\temp\HFC\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.exe
+C:\temp\HFC\headfirstformsex\headfirstformsex\obj\Debug\headfirstformsex.pdb
